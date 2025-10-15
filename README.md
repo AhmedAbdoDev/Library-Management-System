@@ -37,7 +37,6 @@ Users log in by entering their **ID** and **Name**.
 
 #### 🧭 Example 1: Admin Login
 ```
-
 🔑 Login:
 Enter ID (0 to exit): 1
 Enter Name: Alice
@@ -50,13 +49,11 @@ Enter Name: Alice
 3. Search Book
 4. Show All Books
 5. Exit
-   Your choice:
-
+Your choice:
 ```
 
 #### 🧭 Example 2: Member Login
 ```
-
 🔑 Login:
 Enter ID (0 to exit): 2
 Enter Name: Bob
@@ -70,8 +67,7 @@ Enter Name: Bob
 4. Search Book
 5. Show All Books
 6. Exit
-   Your choice:
-
+Your choice:
 ```
 
 ---
@@ -89,7 +85,6 @@ Enter Name: Bob
 ````
 
 ---
-
 ## 🧠 Concepts Applied
 
 | Concept | Description |
@@ -99,7 +94,6 @@ Enter Name: Bob
 | **Polymorphism** | Overridden methods for different user roles |
 | **Abstraction** | Simplified interfaces for managing books and users |
 | **Collections** | Use of `ArrayList` for dynamic data storage |
-
 ---
 
 ## 🛠️ Technologies Used
@@ -142,4 +136,3 @@ I'm a passionate solo developer who enjoys building simple yet effective tools. 
 ---
 
 ⭐ **If you like this project, don't forget to star the repo!**
-
